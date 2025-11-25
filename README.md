@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines for Windows Users](https://github.com/alejandrabarrientosm/creating-vms)
   - [Observing ICMP Traffic for Windows Users](https://github.com/alejandrabarrientosm/azure-network-protocols)
-  - [Configuring a Firewall (Network Security Group)](https://github.com/alejandrabarrientosm/azure-network-protocols)
+  - [Configuring a Firewall (Network Security Group)](https://github.com/alejandrabarrientosm/azure-network-security)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Configuration of a Support Ticketing System](https://github.com/alejandrabarrientosm/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/alejandrabarrientosm/post-install-config)
