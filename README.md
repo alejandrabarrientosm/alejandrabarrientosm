@@ -12,7 +12,7 @@
   - [osTicket: Workflow of Ticket Management](https://github.com/alejandrabarrientosm/workflow)
 - <b> Active Directory </b>
   - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-installation)
-  - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/post-install-config)
+  - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/group-policy-azure)
   - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/ticket-lifecycle)
 
 
