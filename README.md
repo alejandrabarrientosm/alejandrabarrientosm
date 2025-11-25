@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines for Windows Users](https://github.com/alejandrabarrientosm/configure-ad)
+  - [Creating Virtual Machines for Windows Users](https://github.com/alejandrabarrientosm/creating-vms)
   - [Observing ICMP Traffic for Windows Users](https://github.com/alejandrabarrientosm/azure-network-protocols)
   - [Configuring a Firewall (Network Security Group)](https://github.com/alejandrabarrientosm/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
