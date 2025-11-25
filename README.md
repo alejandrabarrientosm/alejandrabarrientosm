@@ -3,12 +3,17 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alejandrabarrientosm/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alejandrabarrientosm/azure-network-protocols)
+  - [Creating Virtual Machines for Windows Users](https://github.com/alejandrabarrientosm/configure-ad)
+  - [Observing ICMP Traffic for Windows Users](https://github.com/alejandrabarrientosm/azure-network-protocols)
+  - [Configuring a Firewall (Network Security Group)](https://github.com/alejandrabarrientosm/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Configuration of a Support Ticketing System](https://github.com/alejandrabarrientosm/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/alejandrabarrientosm/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alejandrabarrientosm/ticket-lifecycle)
+- <b> Active Directory </b>
+  - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/osticket-prereqs)
+  - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/post-install-config)
+  - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
