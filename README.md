@@ -11,7 +11,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alejandrabarrientosm/post-installation-config)
   - [osTicket: Workflow of Ticket Management](https://github.com/alejandrabarrientosm/workflow)
 - <b> Active Directory </b>
-  - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/osticket-prereqs)
+  - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-installation)
   - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/post-install-config)
   - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/ticket-lifecycle)
 
