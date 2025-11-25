@@ -8,6 +8,7 @@
   - [Configuring a Firewall (Network Security Group)](https://github.com/alejandrabarrientosm/azure-network-security)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Configuration of a Support Ticketing System](https://github.com/alejandrabarrientosm/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/alejandrabarrientosm/post-installation-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alejandrabarrientosm/ticket-lifecycle)
 - <b> Active Directory </b>
   - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/osticket-prereqs)
