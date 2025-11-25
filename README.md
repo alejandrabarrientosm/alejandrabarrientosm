@@ -13,7 +13,7 @@
 - <b> Active Directory </b>
   - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-installation)
   - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/group-policy-azure)
-  - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/ticket-lifecycle)
+  - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/file-share-permissions)
 
 
 <h2>🤳Connect with me:</h2>
