@@ -11,9 +11,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alejandrabarrientosm/post-installation-config)
   - [osTicket: Workflow of Ticket Management](https://github.com/alejandrabarrientosm/workflow)
 - <b> Active Directory </b>
-  - [Installing Active Directory in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-installation)
+  - [Active Directory Infrastructure in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-infrastructure)
+  - [Active Directory Deployment in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/deploying-active-directory)
+  - [Active Directory Creating Users (Virtual Machines)](https://github.com/alejandrabarrientosm/active-directory-users)
   - [Group Policy and Managing Accounts in Azure (Virtual Machines)](https://github.com/alejandrabarrientosm/group-policy-azure)
-  - [Network File Share and Permissions in Azure (Virutal Machines)](https://github.com/alejandrabarrientosm/file-share-permissions)
+
 
 
 <h2>🤳Connect with me:</h2>
@@ -22,6 +24,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Alejandra
-[instagram]: https://www.instagram.com/Alejandra
-[linkedin]: https://linkedin.com/in/Alejandra
+
+[linkedin]: https://www.linkedin.com/in/alejandra-barrientos-6a81b5227/
